@@ -1,0 +1,8 @@
+<svg width="32" height="40" viewBox="0 0 32 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Каплевидная форма маркера -->
+  <path d="M16 0C7.163 0 0 7.163 0 16C0 24.837 16 40 16 40S32 24.837 32 16C32 7.163 24.837 0 16 0Z" fill="#4CAF50"/>
+  <!-- Белый круг внутри -->
+  <circle cx="16" cy="16" r="10" fill="white"/>
+  <!-- Буква A -->
+  <text x="16" y="22" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#4CAF50">A</text>
+</svg>
